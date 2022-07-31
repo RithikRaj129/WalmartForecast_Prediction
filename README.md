@@ -11,16 +11,10 @@ The key issues that we have faced in this analysis is the large dataset that res
 
 Few other time series forecasting models could have been used as the weekly sales is highly dependent on the past year. Moreover, ARIMA modelling techniques like exponential smoothening and holt winters could have helped us capture the seasonality in the model in a better way. Furthermore, ARIMAX model would have enabled us to have an accurate time series model based on previous weeks of data as well as factor in few important variables like holiday and department type to get an even better accuracy.
 
-![Pic1](Picture1.png)
-![Pic1](Picture2.png)
 ![Pic1](Picture3.png)
 ![Pic1](Picture4.png)
-![Pic1](Picture5.png)
-![Pic1](Picture6.png)
 ![Pic1](Picture7.png)
 ![Pic1](Picture8.png)
-![Pic1](Picture9.png)
-![Pic1](Picture10.png)
 
 
 ## Conclusion: 
